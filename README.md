@@ -28,8 +28,6 @@ I created this repository to:
 If you’re also learning web dev or have tips/resources to share, I’d love to hear from you!
 💌 Feel free to open an issue or start a discussion!
 
----
-
 Thanks for visiting! 🌟  
 Let’s build cool stuff — one line of code at a time 🧱💻
 
