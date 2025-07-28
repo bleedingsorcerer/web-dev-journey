@@ -1,0 +1,27 @@
+:root {
+    --primary-color: purple;
+    --secondary-color: white;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    display: flex;
+    list-style: none;
+    padding: 20px;
+}
+
+.nav li {
+    margin-right: 20px;
+}
+
+.nav:hover {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    box-shadow: 5px 5px 10px black;
+}
